@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://TrH-In-GsH.github.io/phong03CV",
+  "homepage": "https://TrH-In-GsH.github.io/phong03CV-React-Vite",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

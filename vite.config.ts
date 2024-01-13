@@ -8,7 +8,7 @@ export default defineConfig({
   },
   publicDir: "public",
   plugins: [react()],
-  base: "/phong03CV",
+  base: "/phong03CV-React-Vite",
 });
 
 
